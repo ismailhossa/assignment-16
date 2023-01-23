@@ -1,0 +1,141 @@
+.header{
+    background-color: #121548;
+}
+.header-img img{
+    width: 60px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.header-list ul li{
+    display: inline-block;
+}
+.header-list ul li a{
+    text-decoration: none;
+    color: #fff;
+  display: inline-block;
+   padding: 10px;
+   line-height: 40px;
+  
+}
+.benner-sec{
+    background: url(https://images.unsplash.com/photo-1498798821241-1f327af804fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80);
+   padding: 80px 0px;
+   background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.benner-sec h2{
+    padding: 15px;
+    margin-top: 175px;
+    font-size: 25px;
+    font-weight: 600px;
+}
+.col-12{
+    color: #fff;
+}
+.col-12 a{
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #317bbc;
+   display: inline-block;
+   background-color: #317bbc;
+   border-radius: 5px;
+   padding: 10px 20px;
+}
+.our{
+    padding: 40px;
+}
+.meet-our{
+    background-color: #bac1f3;
+    padding: 100px 0;
+}
+
+.meet-img img{
+    width: 200px;
+    height: 100%;
+}
+.meet-img-5 img{
+    width: 200px;
+    height: 299px;
+}
+.meet-5{
+    padding: 60px;
+   margin-top: -30px;
+   color: #735e70;
+   font-weight: 600;
+}
+.meet-5 a{
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid  #317bbc;
+    display: inline-block;
+    background-color:#317bbc ;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.about-img img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+}
+.about-sec{
+    background-color: #c2d4ea;
+}
+.about-as{
+    padding: 50px;
+}
+.about-cont li{
+   list-style: none;
+}
+.p-3{
+    font-size: 15px;
+}
+.about-cont{
+    padding: 15px;
+}
+.contact-us{
+    background-color: #f5f5f5;
+}
+.contact-us h1{
+    padding: 70px;
+    text-align: center;
+    font-size: 50px;
+    
+
+}
+.form {
+   margin-bottom: 50px;
+}
+.name label{
+    font-size:20px;
+    font-weight: 600px;
+}
+.email label{
+    font-size:20px;
+    font-weight: 600px;
+}
+.subject label{
+    font-size:20px;
+    font-weight: 600px;
+}
+.message label{
+    font-size:20px;
+    font-weight: 600px;
+}
+.submit{
+    padding: 10px 0px;
+   
+}
+.bottom{
+    background-color: #0062d3;
+    color: #fff;
+   padding: 5px 0px;
+    display: block;
+    font-size: 10px;
+    margin-top: 50px;
+}
+.bottom h3{
+    font-size: 20px;
+   
+}
